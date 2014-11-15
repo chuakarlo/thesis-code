@@ -1,0 +1,27 @@
+.center {
+    position: absolute;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.arrow {
+    padding-bottom: 4px;
+}
+.center-text {
+    text-align: center;
+}
+/* Bootstrap Modifications */
+/* Colorize Modal Header */
+
+body {
+  padding-top: 8%;
+  background-color: black;
+}
+.jumbotron {
+    background-color: white;
+    padding: 1% 0 8% 0;
+}
+#alert {
+	display: none;
+}
